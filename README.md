@@ -45,16 +45,17 @@ Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ## 🚀 精选开源项目 (Featured Projects)
 
 <p align="center">
+  <a href="https://github.com/xiaoA0v0/Win-Toolbox">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=Win-Toolbox&theme=tokyonight&hide_border=true" alt="Win-Toolbox" />
+  </a>
   <a href="https://github.com/xiaoA0v0/KMS-Activator">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=KMS-Activator&theme=tokyonight&hide_border=true" alt="KMS-Activator" />
-  </a>
-  <a href="https://github.com/xiaoA0v0/fireworks-bloom">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=fireworks-bloom&theme=tokyonight&hide_border=true" alt="fireworks-bloom" />
   </a>
 </p>
 
 | 项目名称 | 简介 | 快速体验 |
 | :--- | :--- | :--- |
+| 🛠️ **[Win-Toolbox](https://github.com/xiaoA0v0/Win-Toolbox)** | 单文件 Windows 硬件深度体检 · 网络全链路诊断 · 系统调优工具箱（CPU/内存颗粒/硬盘健康检测、DNS 测速对比、端口排查、Win11 调优）。 | [📦 下载最新版 Release](https://github.com/xiaoA0v0/Win-Toolbox/releases/latest) |
 | ⚡ **[KMS-Activator](https://github.com/xiaoA0v0/KMS-Activator)** | 单文件、零依赖、双击即用的 Windows & Office KMS 自动激活工具，自动识别系统与 Office 版本并匹配微软官方 GVLK 密钥。 | [📦 下载最新版 Release](https://github.com/xiaoA0v0/KMS-Activator/releases/latest) |
 | 🎆 **[fireworks-bloom](https://github.com/xiaoA0v0/fireworks-bloom)** | 基于 HTML5 Canvas 的绚丽烟花绽放动画效果。 | [🔗 查看仓库](https://github.com/xiaoA0v0/fireworks-bloom) |
 
