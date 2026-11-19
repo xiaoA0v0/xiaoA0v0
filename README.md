@@ -42,7 +42,7 @@ Interests: [ "🌐 计算机网络", "🖥️ 硬件装机与折腾", "⚡ 系�
 Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ```
 
-- 💻 热爱折腾计算机硬件、网络架构与操作系统底层配置，喜欢把繁琐的操作写成一键自动化工具。
+- 💻 热爱折腾计算机硬件、网络架构与操作系统底层配置，喜欢把繁琐的操作写成一键自动化工具与原生桌面软件。
 - 🏍️ 摩托车机械与声浪爱好者，喜欢钻研四缸机曲柄相位、配气正时与声浪原理。
 - 🔍 喜欢深究技术背后的运行原理，在个人博客 [fanzhengwei.cn](https://fanzhengwei.cn) 记录折腾笔记与经验分享。
 
@@ -51,28 +51,29 @@ Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ## 🚀 精选开源项目 (Featured Projects)
 
 <p align="center">
+  <a href="https://github.com/xiaoA0v0/NetPulse">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=NetPulse&theme=tokyonight&hide_border=true" alt="NetPulse" />
+  </a>
   <a href="https://github.com/xiaoA0v0/Inline4-Engine-Sim">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=Inline4-Engine-Sim&theme=tokyonight&hide_border=true" alt="Inline4-Engine-Sim" />
   </a>
-  <a href="https://github.com/xiaoA0v0/NetKit-Web">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=NetKit-Web&theme=tokyonight&hide_border=true" alt="NetKit-Web" />
-  </a>
 </p>
 
-| 项目名称 | 简介 | 快速体验 |
-| :--- | :--- | :--- |
-| 🏍️ **[Inline4-Engine-Sim](https://github.com/xiaoA0v0/Inline4-Engine-Sim)** | 纯前端 HTML5 Canvas + Web Audio API 直列四缸摩托车发动机模拟器（平面/十字曲轴切换、四缸独立偏角 DIY、缸径行程/提前角/断油与实时物理声浪合成）。 | [🔥 在线轰油体验](https://xiaoa0v0.github.io/Inline4-Engine-Sim/) |
-| 🌐 **[NetKit-Web](https://github.com/xiaoA0v0/NetKit-Web)** | 纯前端极客网络 · 硬件 · 系统在线工具台（IPv4/CIDR 子网位图与拆分、宽带/硬盘换算、常用端口速查、装机电源估算、运维命令生成）。 | [🚀 在线使用](https://xiaoa0v0.github.io/NetKit-Web/) |
-| 🛠️ **[Win-Toolbox](https://github.com/xiaoA0v0/Win-Toolbox)** | 单文件 Windows 硬件深度体检 · 网络全链路诊断 · 系统调优工具箱（CPU/内存颗粒/硬盘健康检测、DNS 测速对比、端口排查、Win11 调优）。 | [📦 下载最新版 Release](https://github.com/xiaoA0v0/Win-Toolbox/releases/latest) |
-| ⚡ **[KMS-Activator](https://github.com/xiaoA0v0/KMS-Activator)** | 单文件、零依赖、双击即用的 Windows & Office KMS 自动激活工具，自动识别系统与 Office 版本并匹配微软官方 GVLK 密钥。 | [📦 下载最新版 Release](https://github.com/xiaoA0v0/KMS-Activator/releases/latest) |
-| 🎆 **[fireworks-bloom](https://github.com/xiaoA0v0/fireworks-bloom)** | 基于 HTML5 Canvas 的绚丽烟花绽放动画效果。 | [🔗 查看仓库](https://github.com/xiaoA0v0/fireworks-bloom) |
+| 项目名称 | 语言 | 简介 | 快速体验 |
+| :--- | :---: | :--- | :--- |
+| 📡 **[NetPulse](https://github.com/xiaoA0v0/NetPulse)** | `C#` | 仅 ~42 KB 的超轻量 Windows 原生桌面悬浮监控窗（实时网速 + 60 秒波形走势、异步 Ping、CPU/内存、迷你胶囊模式、鼠标穿透、三套主题）。 | [📦 下载 NetPulse.exe](https://github.com/xiaoA0v0/NetPulse/releases/latest) |
+| 🏍️ **[Inline4-Engine-Sim](https://github.com/xiaoA0v0/Inline4-Engine-Sim)** | `HTML/JS` | 纯前端 HTML5 Canvas + Web Audio API 直列四缸摩托车发动机模拟器（平面/十字曲轴切换、四缸独立偏角 DIY、实时物理声浪合成）。 | [🔥 在线轰油体验](https://xiaoa0v0.github.io/Inline4-Engine-Sim/) |
+| 🌐 **[NetKit-Web](https://github.com/xiaoA0v0/NetKit-Web)** | `HTML/JS` | 纯前端极客网络 · 硬件 · 系统在线工具台（CIDR 子网位图与拆分、宽带/硬盘换算、常用端口速查、装机电源估算、运维命令生成）。 | [🚀 在线使用](https://xiaoa0v0.github.io/NetKit-Web/) |
+| 🛠️ **[Win-Toolbox](https://github.com/xiaoA0v0/Win-Toolbox)** | `PS/Batch` | 单文件 Windows 硬件深度体检 · 网络全链路诊断 · 系统调优工具箱（CPU/内存颗粒/硬盘健康检测、DNS 测速对比、Win11 调优）。 | [📦 下载最新版](https://github.com/xiaoA0v0/Win-Toolbox/releases/latest) |
+| ⚡ **[KMS-Activator](https://github.com/xiaoA0v0/KMS-Activator)** | `PS/Batch` | 单文件、零依赖、双击即用的 Windows & Office KMS 自动激活工具，自动识别版本并匹配微软官方 GVLK 密钥。 | [📦 下载最新版](https://github.com/xiaoA0v0/KMS-Activator/releases/latest) |
+| 🎆 **[fireworks-bloom](https://github.com/xiaoA0v0/fireworks-bloom)** | `HTML/JS` | 基于 HTML5 Canvas 的绚丽烟花绽放动画效果。 | [🔗 查看仓库](https://github.com/xiaoA0v0/fireworks-bloom) |
 
 ---
 
 ## 🛠️ 常用工具与环境 (Tech & Tools)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,git,github,vscode,docker,html,css,js&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,windows,linux,powershell,bash,git,github,vscode,docker,html,css,js&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
