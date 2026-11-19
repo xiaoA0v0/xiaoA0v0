@@ -12,6 +12,9 @@
   <a href="https://fanzhengwei.cn" target="_blank">
     <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-fanzhengwei.cn-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
+  <a href="https://xiaoa0v0.github.io/Inline4-Engine-Sim/" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%9B%9B%E7%BC%B8%E6%A8%A1%E6%8B%9F%E5%99%A8-Inline4%20Sim-EF4444?style=for-the-badge&logo=githubpages&logoColor=white" alt="Inline4 Sim" />
+  </a>
   <a href="https://xiaoa0v0.github.io/NetKit-Web/" target="_blank">
     <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E5%8F%B0-NetKit%20Web-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white" alt="NetKit Web" />
   </a>
@@ -40,7 +43,7 @@ Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ```
 
 - 💻 热爱折腾计算机硬件、网络架构与操作系统底层配置，喜欢把繁琐的操作写成一键自动化工具。
-- 🌱 正在持续学习编程与脚本开发，探索更高效的工程实践。
+- 🏍️ 摩托车机械与声浪爱好者，喜欢钻研四缸机曲柄相位、配气正时与声浪原理。
 - 🔍 喜欢深究技术背后的运行原理，在个人博客 [fanzhengwei.cn](https://fanzhengwei.cn) 记录折腾笔记与经验分享。
 
 ---
@@ -48,17 +51,18 @@ Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ## 🚀 精选开源项目 (Featured Projects)
 
 <p align="center">
+  <a href="https://github.com/xiaoA0v0/Inline4-Engine-Sim">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=Inline4-Engine-Sim&theme=tokyonight&hide_border=true" alt="Inline4-Engine-Sim" />
+  </a>
   <a href="https://github.com/xiaoA0v0/NetKit-Web">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=NetKit-Web&theme=tokyonight&hide_border=true" alt="NetKit-Web" />
-  </a>
-  <a href="https://github.com/xiaoA0v0/Win-Toolbox">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=Win-Toolbox&theme=tokyonight&hide_border=true" alt="Win-Toolbox" />
   </a>
 </p>
 
 | 项目名称 | 简介 | 快速体验 |
 | :--- | :--- | :--- |
-| 🌐 **[NetKit-Web](https://github.com/xiaoA0v0/NetKit-Web)** | 纯前端极客网络 · 硬件 · 系统在线工具台（IPv4/CIDR 子网位图与拆分、宽带/硬盘换算、常用端口速查、装机电源估算、运维命令生成）。 | [🚀 在线体验 (GitHub Pages)](https://xiaoa0v0.github.io/NetKit-Web/) |
+| 🏍️ **[Inline4-Engine-Sim](https://github.com/xiaoA0v0/Inline4-Engine-Sim)** | 纯前端 HTML5 Canvas + Web Audio API 直列四缸摩托车发动机模拟器（平面/十字曲轴切换、四缸独立偏角 DIY、缸径行程/提前角/断油与实时物理声浪合成）。 | [🔥 在线轰油体验](https://xiaoa0v0.github.io/Inline4-Engine-Sim/) |
+| 🌐 **[NetKit-Web](https://github.com/xiaoA0v0/NetKit-Web)** | 纯前端极客网络 · 硬件 · 系统在线工具台（IPv4/CIDR 子网位图与拆分、宽带/硬盘换算、常用端口速查、装机电源估算、运维命令生成）。 | [🚀 在线使用](https://xiaoa0v0.github.io/NetKit-Web/) |
 | 🛠️ **[Win-Toolbox](https://github.com/xiaoA0v0/Win-Toolbox)** | 单文件 Windows 硬件深度体检 · 网络全链路诊断 · 系统调优工具箱（CPU/内存颗粒/硬盘健康检测、DNS 测速对比、端口排查、Win11 调优）。 | [📦 下载最新版 Release](https://github.com/xiaoA0v0/Win-Toolbox/releases/latest) |
 | ⚡ **[KMS-Activator](https://github.com/xiaoA0v0/KMS-Activator)** | 单文件、零依赖、双击即用的 Windows & Office KMS 自动激活工具，自动识别系统与 Office 版本并匹配微软官方 GVLK 密钥。 | [📦 下载最新版 Release](https://github.com/xiaoA0v0/KMS-Activator/releases/latest) |
 | 🎆 **[fireworks-bloom](https://github.com/xiaoA0v0/fireworks-bloom)** | 基于 HTML5 Canvas 的绚丽烟花绽放动画效果。 | [🔗 查看仓库](https://github.com/xiaoA0v0/fireworks-bloom) |
