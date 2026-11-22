@@ -12,6 +12,9 @@
   <a href="https://fanzhengwei.cn" target="_blank">
     <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-fanzhengwei.cn-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
+  <a href="https://xiaoa0v0.github.io/MotoRush-3D/" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20%E6%91%A9%E6%89%98%E7%AB%9E%E9%80%9F-MotoRush%203D-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="MotoRush 3D" />
+  </a>
   <a href="https://xiaoa0v0.github.io/Inline4-Engine-Sim/" target="_blank">
     <img src="https://img.shields.io/badge/%E5%9B%9B%E7%BC%B8%E6%A8%A1%E6%8B%9F%E5%99%A8-Inline4%20Sim-EF4444?style=for-the-badge&logo=githubpages&logoColor=white" alt="Inline4 Sim" />
   </a>
@@ -20,9 +23,6 @@
   </a>
   <a href="mailto:fzw20070921@163.com">
     <img src="https://img.shields.io/badge/Email-fzw20070921%40163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/xiaoA0v0">
-    <img src="https://img.shields.io/badge/QQ-729673852-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ" />
   </a>
 </p>
 
@@ -38,12 +38,13 @@
 Name     : fanzhenwei (xiaoA0v0)
 Location : 中国 (China)
 Blog     : https://fanzhengwei.cn
+QQ       : 729673852
 Interests: [ "🌐 计算机网络", "🖥️ 硬件装机与折腾", "⚡ 系统优化与自动化脚本", "🏍️ 摩托骑行" ]
 Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ```
 
 - 💻 热爱折腾计算机硬件、网络架构与操作系统底层配置，喜欢把繁琐的操作写成一键自动化工具与原生桌面软件。
-- 🏍️ 摩托车机械与声浪爱好者，喜欢钻研四缸机曲柄相位、配气正时与声浪原理。
+- 🏍️ 摩托车机械与声浪爱好者，喜欢钻研四缸机曲柄相位、配气正时与街机竞速图形引擎。
 - 🔍 喜欢深究技术背后的运行原理，在个人博客 [fanzhengwei.cn](https://fanzhengwei.cn) 记录折腾笔记与经验分享。
 
 ---
@@ -51,16 +52,17 @@ Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ## 🚀 精选开源项目 (Featured Projects)
 
 <p align="center">
+  <a href="https://github.com/xiaoA0v0/MotoRush-3D">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=MotoRush-3D&theme=tokyonight&hide_border=true" alt="MotoRush-3D" />
+  </a>
   <a href="https://github.com/xiaoA0v0/NetPulse">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=NetPulse&theme=tokyonight&hide_border=true" alt="NetPulse" />
-  </a>
-  <a href="https://github.com/xiaoA0v0/Inline4-Engine-Sim">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=Inline4-Engine-Sim&theme=tokyonight&hide_border=true" alt="Inline4-Engine-Sim" />
   </a>
 </p>
 
 | 项目名称 | 语言 | 简介 | 快速体验 |
 | :--- | :---: | :--- | :--- |
+| 🏁 **[MotoRush-3D](https://github.com/xiaoA0v0/MotoRush-3D)** | `HTML/JS` | 纯前端 HTML5 Canvas 复古街机伪 3D 摩托极速狂飙（弯道坡道、压弯仿赛、NOS 氮气、擦车连击、四缸实时声浪与三条赛道）。 | [🎮 在线开玩](https://xiaoa0v0.github.io/MotoRush-3D/) |
 | 📡 **[NetPulse](https://github.com/xiaoA0v0/NetPulse)** | `C#` | 仅 ~42 KB 的超轻量 Windows 原生桌面悬浮监控窗（实时网速 + 60 秒波形走势、异步 Ping、CPU/内存、迷你胶囊模式、鼠标穿透、三套主题）。 | [📦 下载 NetPulse.exe](https://github.com/xiaoA0v0/NetPulse/releases/latest) |
 | 🏍️ **[Inline4-Engine-Sim](https://github.com/xiaoA0v0/Inline4-Engine-Sim)** | `HTML/JS` | 纯前端 HTML5 Canvas + Web Audio API 直列四缸摩托车发动机模拟器（平面/十字曲轴切换、四缸独立偏角 DIY、实时物理声浪合成）。 | [🔥 在线轰油体验](https://xiaoa0v0.github.io/Inline4-Engine-Sim/) |
 | 🌐 **[NetKit-Web](https://github.com/xiaoA0v0/NetKit-Web)** | `HTML/JS` | 纯前端极客网络 · 硬件 · 系统在线工具台（CIDR 子网位图与拆分、宽带/硬盘换算、常用端口速查、装机电源估算、运维命令生成）。 | [🚀 在线使用](https://xiaoa0v0.github.io/NetKit-Web/) |
