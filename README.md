@@ -52,16 +52,17 @@ Motto    : "分享所学，记录所想 · 保持好奇，永远热爱 ✨"
 ## 🚀 精选开源项目 (Featured Projects)
 
 <p align="center">
+  <a href="https://github.com/xiaoA0v0/PortRadar">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=PortRadar&theme=tokyonight&hide_border=true" alt="PortRadar" />
+  </a>
   <a href="https://github.com/xiaoA0v0/MotoRush-3D">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=MotoRush-3D&theme=tokyonight&hide_border=true" alt="MotoRush-3D" />
-  </a>
-  <a href="https://github.com/xiaoA0v0/NetPulse">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=xiaoA0v0&repo=NetPulse&theme=tokyonight&hide_border=true" alt="NetPulse" />
   </a>
 </p>
 
 | 项目名称 | 语言 | 简介 | 快速体验 |
 | :--- | :---: | :--- | :--- |
+| 🎯 **[PortRadar](https://github.com/xiaoA0v0/PortRadar)** | `C#` | 仅 ~30 KB 的超轻量 Windows 暗黑风端口占用透视与进程管理神器（底层 `iphlpapi.dll` 毫秒扫描、一键杀进程、定位程序、CSV 导出与 TCP 探测）。 | [📦 下载 PortRadar.exe](https://github.com/xiaoA0v0/PortRadar/releases/latest) |
 | 🏁 **[MotoRush-3D](https://github.com/xiaoA0v0/MotoRush-3D)** | `HTML/JS` | 纯前端 HTML5 Canvas 复古街机伪 3D 摩托极速狂飙（弯道坡道、压弯仿赛、NOS 氮气、擦车连击、四缸实时声浪与三条赛道）。 | [🎮 在线开玩](https://xiaoa0v0.github.io/MotoRush-3D/) |
 | 📡 **[NetPulse](https://github.com/xiaoA0v0/NetPulse)** | `C#` | 仅 ~42 KB 的超轻量 Windows 原生桌面悬浮监控窗（实时网速 + 60 秒波形走势、异步 Ping、CPU/内存、迷你胶囊模式、鼠标穿透、三套主题）。 | [📦 下载 NetPulse.exe](https://github.com/xiaoA0v0/NetPulse/releases/latest) |
 | 🏍️ **[Inline4-Engine-Sim](https://github.com/xiaoA0v0/Inline4-Engine-Sim)** | `HTML/JS` | 纯前端 HTML5 Canvas + Web Audio API 直列四缸摩托车发动机模拟器（平面/十字曲轴切换、四缸独立偏角 DIY、实时物理声浪合成）。 | [🔥 在线轰油体验](https://xiaoa0v0.github.io/Inline4-Engine-Sim/) |
